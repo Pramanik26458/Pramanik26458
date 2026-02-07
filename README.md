@@ -1,6 +1,6 @@
 <div align="center">
 
-# Basak Pramanik
+# BASAK PRAMANIK
 
 **Frontend Developer** building a strong foundation to grow into a **Software Engineer**
 
