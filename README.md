@@ -1,88 +1,146 @@
 <div align="center">
 
-# BASAK PRAMANIK
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Basak%20Pramanik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-**Frontend Developer** building a strong foundation to grow into a **Software Engineer**
-
-Frontend-focused · DSA (Java) · Learning React & LLD
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=basakpramanik&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/basakpramanik?label=Followers&style=for-the-badge&color=6c63ff" alt="Followers" />
+&nbsp;
+<a href="https://github.com/basakpramanik?tab=stars">
+  <img src="https://img.shields.io/github/stars/basakpramanik?label=Total%20Stars&style=for-the-badge&color=6c63ff" alt="Stars" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hi, I’m **Basak Pramanik**.
-
-I’m an entry-level **Frontend Developer** focused on building clean, responsive, and well-structured user interfaces using core web technologies. I value strong fundamentals, readable code, and understanding how things work rather than relying on shortcuts.
-
-Alongside development, I actively practice **data structures and algorithms using Java** and have solved **300+ problems**, which strengthens my logical thinking and problem-solving skills.
-
-This GitHub profile reflects my **learning journey** — consistent practice, experimentation, and steady improvement over time.
-
----
-
-## Current Focus
-
-- Advanced frontend fundamentals (layouts, responsiveness, DOM, async JavaScript)
-- Writing clean and maintainable UI logic
-- React and modern frontend workflows *(in progress)*
-- Data structures & algorithms using Java
-- Low-level design fundamentals *(in progress)*
-
----
-## Contact with me:
-<a href="https://www.linkedin.com/in/pramanikbasak/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-</a>
-<br>
-<a href="https://x.com/basak_b81016" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" />
-</a>
-<br>
-
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://takeuforward.org/SecondaryLogoWO.png" width="100" height="400" />
-</a>
+```typescript
+const basak = {
+  name        : "Basak Pramanik",
+  role        : "Full Stack Developer",
+  location    : "India 🇮🇳",
+  focus       : ["Clean Code", "Strong Fundamentals", "Consistent Building"],
+  currentlyLearning : ["MERN Stack", "System Design", "DSA with Java"],
+  goal        : "Become a professional software engineer — one commit at a time",
+  openTo      : ["Internships", "SWE Roles", "Open Source", "Collaborations"],
+  funFact     : "I believe great software is 20% code and 80% thinking 💡"
+};
+```
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
+## 🚀 Tech Stack
 
 <div align="center">
 
-## 📊 GitHub Stats
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pramanik26458&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
+**Languages**
 
-<br><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pramanik26458&theme=dark&hide_border=false" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Frontend**
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramanik26458&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br><br>
-# ✍️ Random Dev Quote
+**Backend & Database**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-<br><br>
+**Tools & Platforms**
 
-
-## 🔝 Top Contributed Repos
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Pramanik26458&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-
----
-<br><br>
-
-<!-- <img src="https://visitcount.itsvg.in/api?id=Pramanik26458&icon=0&color=0" /> -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=basakpramanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=basakpramanik&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basakpramanik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=basakpramanik&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | What I'm Working On | Status |
+|------|----------------------|--------|
+| 🧠 DSA | LeetCode daily — Arrays, Trees, Graphs | 🔥 Active |
+| 🌐 MERN Stack | Building full-stack projects end-to-end | 🔨 Building |
+| 🏗️ System Design | HLD/LLD concepts, scalability patterns | 📖 Learning |
+| 🧹 Clean Code | SOLID principles, design patterns | ✅ Practicing |
+| 🚀 Open Source | Looking for first contributions | 🔍 Exploring |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=basakpramanik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — Martin Fowler
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basakpramanik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/basakpramanik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/basakpramanik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basakpramanik@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://basakpramanik.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/basakpramanik/basakpramanik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+
+**✨ Thanks for visiting! If you find my work interesting, consider giving a ⭐ to a repo!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
