@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- ===== ANIMATED HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Basak%20Pramanik&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<!-- Profile View Counter — uses username from URL path, always works -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-Internships%20%26%20SWE%20Roles-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open To Work" />
+<!-- ===== BADGES ROW ===== -->
+<img src="https://komarev.com/ghpvc/?username=Pramanik26458&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Pramanik26458?label=FOLLOWERS&style=for-the-badge&color=6c63ff&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-Internships%20%26%20SWE%20Roles-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open To Work" />
 
 <br/><br/>
 
@@ -64,12 +66,13 @@ const basak: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pramanik26458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramanik26458&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="68%" src="https://streak-stats.demolab.com?user=Pramanik26458&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
@@ -80,7 +83,7 @@ const basak: Developer = {
 <div align="center">
 
 | Area | What I'm Working On | Status |
-|:----:|:--------------------:|:------:|
+|:----:|:-------------------:|:------:|
 | 🧠 **DSA** | LeetCode daily — Arrays, Trees, Graphs | 🔥 Active |
 | 🌐 **MERN Stack** | Building full-stack projects end-to-end | 🔨 Building |
 | 🏗️ **System Design** | HLD/LLD concepts, scalability patterns | 📖 Learning |
@@ -95,7 +98,7 @@ const basak: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Pramanik26458&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
@@ -105,7 +108,53 @@ const basak: Developer = {
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Basak's%20Contribution%20Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pramanik26458&theme=tokyo-night&hide_border=true&area=true&custom_title=Basak's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  ⚠️ SNAKE SETUP — one-time, ~2 minutes:
+  1. Go to repo Pramanik26458/Pramanik26458 → Actions → New workflow → set up yourself
+  2. Name it: snake.yml  — paste the content below, commit it
+  3. Back in Actions → select "Generate Snake" → Run workflow (manual trigger once)
+  4. Snake SVG will appear at the URL below automatically ✅
+
+  ──── snake.yml content ────
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Pramanik26458
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ───────────────────────────
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramanik26458/Pramanik26458/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramanik26458/Pramanik26458/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pramanik26458/Pramanik26458/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -133,11 +182,11 @@ const basak: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basakpramanik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Basakpramanik/)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basak_b81016)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basakpramanik9@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
 </div>
 
